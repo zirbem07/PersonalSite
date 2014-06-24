@@ -1,0 +1,59 @@
+#title
+{
+    margin-bottom: 0px;
+}
+#subTitle
+{
+    margin-top: 0px;
+}
+ul.socialLinks
+{
+    padding:0;
+    display: block;
+}
+ul.socialLinks li
+{
+    display:inline-block;
+    list-style-type: none;
+}
+
+.col-sm-6 > .socialLinks .socialIcon {
+    height: 4.5em;
+    width: 4.5em;
+}
+
+.socialLinks img {
+    -webkit-transition:all 400ms;
+    -moz-transition:all 400ms;
+    -o-transition:all 400ms;
+    transition:all 400ms;
+}
+
+.socialLinks img:hover {
+    -webkit-transform:scale(1.2, 1.2);
+}
+#bio
+{
+    background-color: rgb(6, 121, 159);
+}
+.jumbotron
+{
+    background-color: rgb(6, 121, 159);
+}
+#bioPic
+{
+    border: 10px rgb(4, 93, 123) solid;
+}
+#blog
+{
+    background-color: rgb(0, 187, 63);
+}
+.thumbnail
+{
+    background-color: rgb(0, 144, 49);
+    border: 1px solid black;
+}
+#contact
+{
+    background-color: rgb(255, 131, 0);
+}
